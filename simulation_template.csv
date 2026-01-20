@@ -1,0 +1,4 @@
+employee_code,timestamp,device_type,location,clicked_link,provided_credentials,time_to_click_seconds
+EMP001,2024-01-15 09:30:00,Desktop,Office,True,False,45.0
+EMP001,2024-01-16 14:45:00,Mobile,Coffee Shop,True,True,12.0
+EMP002,2024-01-15 16:20:00,Desktop,Remote,False,False,
